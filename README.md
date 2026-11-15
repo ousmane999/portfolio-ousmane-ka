@@ -31,7 +31,6 @@ portfolio-ousmane-ka/
 ├── style.css             # Design system + thème clair/sombre + responsive
 ├── main.js               # Interactions : animations, formulaire, thème...
 ├── hero_avatar.jpg       # Avatar hero section
-├── project_senelec.jpg   # Mockup projet Senelec
 ├── project_taskflow.jpg  # Mockup projet TaskFlow
 ├── project_ecotrack.jpg  # Mockup projet EcoTrack
 └── README.md             # Ce fichier
